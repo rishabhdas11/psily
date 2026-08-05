@@ -130,37 +130,43 @@ export const timeline = [
     id: 19,
     date: "10/5/2026",
     title: "best bday ever",
-    description: "my first bday with her, and it was the best bday ever. The day started... with out first SPOTIFY DATE 💗. we stayed up until 3 am... listening to THE SAME SONGS, TOGETHER AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH. it was so dreamy and fun and so blissful experience ❤️ We lip synced, vibing and finding meanings of songs together, with each other. IT WAS SO LOVELY!!! for the first time, i felt like that day was really special. She made my day so so sooooooo amazing. MWAH ❤️",
+    description:
+      "my first bday with her, and it was the best bday ever. The day started... with out first SPOTIFY DATE 💗. we stayed up until 3 am... listening to THE SAME SONGS, TOGETHER AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH. it was so dreamy and fun and so blissful experience ❤️ We lip synced, vibing and finding meanings of songs together, with each other. IT WAS SO LOVELY!!! for the first time, i felt like that day was really special. She made my day so so sooooooo amazing. MWAH ❤️",
   },
   {
     id: 20,
     date: "16/5/2026",
     title: "end of bday week",
-    description: "ok, i am trying to keep it short... BUT SHE IS NOT MAKING IT POSSIBLE! she gave me a watch... A WATCH... AN. ACTUAL. POCKET. WATCH!!! I got her 3 roses, but like everytime, SHE ALWAYS OUTSHINES ME 😁 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHH 💗💗💗. This will be my timepiece FOREVER !!! she is so sweet💖... my heart melts every time i see her",
+    description:
+      "ok, i am trying to keep it short... BUT SHE IS NOT MAKING IT POSSIBLE! she gave me a watch... A WATCH... AN. ACTUAL. POCKET. WATCH!!! I got her 3 roses, but like everytime, SHE ALWAYS OUTSHINES ME 😁 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHH 💗💗💗. This will be my timepiece FOREVER !!! she is so sweet💖... my heart melts every time i see her",
   },
   {
     id: 21,
     date: "19/5/2026",
     title: "fit check 😍",
-    description: "She had to go to her pishi's babyshower. so she got ready, and ASKED ME IF I WANNA SEE HER OUTFIT!!! Even though there were a TON of relatives, she managed to video call me 🥹... (she is so amazing i swear ❤️) And oh my god. she looked absolutely STUNNING! MY GORGEOUS GODDESS 😍 (she even gave me twirls 🥹🧿)",
+    description:
+      "She had to go to her pishi's babyshower. so she got ready, and ASKED ME IF I WANNA SEE HER OUTFIT!!! Even though there were a TON of relatives, she managed to video call me 🥹... (she is so amazing i swear ❤️) And oh my god. she looked absolutely STUNNING! MY GORGEOUS GODDESS 😍 (she even gave me twirls 🥹🧿)",
   },
   {
     id: 22,
     date: "21/5/2026",
     title: "FIRST KISS❣️",
-    description: "After School, we went to our Cove... and doing stuff 🫣... and cozying around. we were very close (zero molecules)... our eyes fluttering...  and it just suddenly HAPPENED. we kissed. WE KISSED. WE. KISSED. 😳🫣 (damn)",
+    description:
+      "After School, we went to our Cove... and doing stuff 🫣... and cozying around. we were very close (zero molecules)... our eyes fluttering...  and it just suddenly HAPPENED. we kissed. WE KISSED. WE. KISSED. 😳🫣 (damn)",
   },
   {
     id: 23,
     date: "22/5/2026",
     title: "Gaming Together",
-    description: "She was playing roblox with her elder and younger brother, and she invited me to join (as a secret stranger 🤫). then she TORTURED me mid-game, and went ahead... leaving me behind. 💔😭",
+    description:
+      "She was playing roblox with her elder and younger brother, and she invited me to join (as a secret stranger 🤫). then she BULLIED me mid-game, and went ahead... leaving me behind. 💔😭",
   },
   {
     id: 24,
     date: "25/5/2026",
     title: "Meet before Tution",
-    description: "I went to her home (no one was there) 😁. It was the first time i saw her in her home clothes irl 😍 (oh she is stunning!!!) she gave me small flowers and a lemon leaf 🥹 (i still hv them ofc)... then we were 'exploring' outside the house. maybe doing stuff 😏... we could feel each other's breaths, and kissed like the world would end that day 🥵😳",
+    description:
+      "I went to her home (no one was there) 😁. It was the first time i saw her in her home clothes irl 😍 (oh she is stunning!!!) she gave me small flowers and a lemon leaf 🥹 (i still hv them ofc)... then we were 'exploring' outside the house. maybe doing stuff 😏... we could feel each other's breaths, and kissed like the world would end that day 🥵😳",
   },
   {
     id: 25,
@@ -189,7 +195,7 @@ export const timeline = [
   {
     id: 29,
     date: "13/6/2026",
-    title: "The Proposal and Caught Her Off Guard",
+    title: "The Proposal",
     description: "to be written-",
   },
   {
